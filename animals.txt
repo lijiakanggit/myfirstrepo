@@ -4,4 +4,4 @@
 4: snake
 5: dog
 6: camel
-7: python7
+7: python
